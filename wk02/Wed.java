@@ -15,7 +15,7 @@ public class /* block comment don't do this */ Wed {
 //        System.out.println("sides = " + sides);
 
         Random rand = new Random();
-        int roll = (Math.abs(rand.nextInt())%side) + 1;
+        int roll = (Math.abs(rand.nextInt())%sides) + 1;
         System.out.println("Roll: " + roll);
 
     }
