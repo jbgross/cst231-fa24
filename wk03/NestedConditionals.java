@@ -31,7 +31,7 @@ public class NestedConditionals {
                 System.out.println(input + " is a very big number");
             }
 
-            if (input % 2 == 1 || input % 2 == -1 )  {
+            if (input % 2 == 1 ||  input % 2 == -1 )  {
                 System.out.println(input + " is odd");
             } else {
                 System.out.println(input + " is even");
