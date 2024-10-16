@@ -1,0 +1,7 @@
+hello
+goodbye
+ciao
+bonjour
+ni
+hao
+hola
