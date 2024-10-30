@@ -1,4 +1,4 @@
-package wk09;
+package wk10;
 import java.util.*;
 public class MonMethods {
     public static void main(String[] args) {
